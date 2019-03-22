@@ -7,7 +7,7 @@ START_DATE = datetime(2019, 4, 1)
 FTES = 5
 
 # The percent of time each FTE will spend
-PERCENT_ALLOCATED = .7
+PERCENT_ALLOCATED = .45
 
 # The number of weeks per sprint
 SPRINT_WKS = 2
