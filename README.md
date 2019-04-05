@@ -1,4 +1,6 @@
-## Source files:
+## Resource module planning
+
+### Source files:
 
 `generate.py`: Build the static HTML file
 
@@ -10,11 +12,11 @@
 
 `settings.py`: Values used to build timeline
 
-## Settings
+### Settings
 
 See the settings.py file.
 
-## Usage
+### Usage
 
 `pip install jinja2`
 
