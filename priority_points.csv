@@ -7,7 +7,6 @@ vrfs,3
 vrf_interfaces,3
 
 bgp,13
-bfd,5
 ospf,13
 ospf_interfaces,5
 
@@ -58,6 +57,8 @@ static_routes,5
 stp_interfaces,3
 stp,3
 traceroute,3
+bfd,5
+
 udld_interfaces,3
 udld,3
 vpc_interfaces,3
